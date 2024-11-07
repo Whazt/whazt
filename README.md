@@ -1,4 +1,4 @@
-## Hi there I'm Whazt, actually I'm studying System Engineering
+## Hi there I'm Whazt, I'm currently studying System Engineering
 
 - 🔭 I’m currently working on a Vacation´s sistem for RRHH
 - 🌱 I’m currently learning Laravel
