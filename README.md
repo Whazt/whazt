@@ -2,7 +2,7 @@
 
 I'm currently studying System Engineering and passionate about building efficient and innovative software solutions.
 
-- 🔭 I’m working on a taskmanager 
+- 🔭 I’m working on an ecomerce platform
 - 🌱 I’m currently learning node.js with express.js
 - 💬 Feel free to ask me about anything tech-related
 
