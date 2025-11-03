@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm **Whazt**
+## 👋 Hi there! I'm Walter **"Whazt"** Díaz
 
 🎓 I'm currently studying **Systems Engineering** and I'm passionate about building efficient, scalable, and innovative software solutions.  
 💡 I enjoy turning ideas into code and exploring new technologies that make development faster and cleaner.
