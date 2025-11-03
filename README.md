@@ -64,19 +64,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whazt&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-## 🧠 Fun Facts
-- 🧩 I love learning about **software architecture and backend systems**
-- 🎮 In my free time, I enjoy gaming and exploring new frameworks
-- 🌍 Always looking to collaborate on open-source projects
-
----
-
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/walter-díaz-225563306)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whazt)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walter.diaz.tellez@gmail.com)
 
 ---
 
