@@ -1,8 +1,3 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://i.imgur.com/Ut9z9E3.png" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">👋 ¡Hola! Soy Walter <strong>"Whazt"</strong> Díaz</h1>
 <h3 align="center">💻 Desarrollador en formación | Estudiante de Ingeniería de Sistemas</h3>
 
@@ -16,7 +11,7 @@
 
 ---
 
-### ⚡ Actualmente trabajando en
+## ⚡ Actualmente trabajando en
 
 - 🔭 Desarrollo de una **plataforma E-commerce** con tecnologías modernas  
 - 🌱 Aprendiendo **Node.js**, **Express.js** y **TypeScript** para fortalecer el backend  
@@ -24,7 +19,7 @@
 
 ---
 
-## 🧠 Lenguajes de Programación
+## 💻 Lenguajes de Programación
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -74,19 +69,6 @@
 
 ---
 
-## 🧩 Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/whazt/ecommerce-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whazt&repo=ecommerce-platform&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/whazt/api-nodejs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whazt&repo=api-nodejs&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -97,6 +79,7 @@
 ---
 
 ## 🔥 Racha y Actividad
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whazt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -121,10 +104,4 @@
 
 <p align="center">
   ⭐ <i>"El código es como el humor: cuando tienes que explicarlo, es malo."</i>
-</p>
-
-<!-- Footer con mini firma -->
-<p align="center">
-  <img src="https://i.imgur.com/6YfH3av.gif" width="200px" /><br>
-  <sub>✨ Diseñado con pasión por <b>Whazt</b></sub>
 </p>
